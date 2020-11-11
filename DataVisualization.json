@@ -5,14 +5,32 @@
     "name": "Asia",
     "children": [
       {
-        "name": "cluster1",
+        "name": "India",
         "children": [
           {
-            "name": "AgglomerativeCluster",
-            "size": 3938
+            "name": "Total Tested",
+            "children": [
+              {
+                "name": "Covid - Positive",
+                "children": [
+                  {
+                    "name": "Total Deaths",
+                    "size": 3534
+                  },
+                  {
+                    "name": "Total Recovered",
+                    "size": 5731
+                  }
+                ]
+              },
+              {
+                "name": "Covid - Negative",
+                "size": 5731
+              }
+            ]
           },
           {
-            "name": "CommunityStructure",
+            "name": "Non Tested",
             "size": 3812
           },
           {
@@ -26,7 +44,7 @@
         ]
       },
       {
-        "name": "cluster2",
+        "name": "China",
         "children": [
           {
             "name": "BetweennessCentrality",
@@ -43,7 +61,16 @@
         ]
       },
       {
-        "name": "cluster3",
+        "name": "Pakistan",
+        "children": [
+          {
+            "name": "AspectRatioBanker",
+            "size": 7074
+          }
+        ]
+      },
+      {
+        "name": "Bangladesh",
         "children": [
           {
             "name": "AspectRatioBanker",
