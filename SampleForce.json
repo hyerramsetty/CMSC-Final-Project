@@ -1,15 +1,15 @@
 {
   "nodes": [
     {
-      "name": "Myriel",
+      "name": "0",
       "party": 1
     },
     {
-      "name": "Napoleon",
+      "name": "1",
       "party": 1
     },
     {
-      "name": "Napoleon",
+      "name": "2",
       "party": 2
     }
   ],
