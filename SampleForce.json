@@ -5,6 +5,10 @@
       "party": 1
     },
     {
+      "name": "3",
+      "party": 3
+    },
+    {
       "name": "1",
       "party": 1
     },
@@ -17,6 +21,11 @@
     {
       "source": 1,
       "target": 0,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 3,
       "count": 1
     },
     {
