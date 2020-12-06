@@ -1,213 +1,238 @@
 {
- "name": "WorldWideCovidData",
- "children": [
-  {
-    "name": "Asia",
-    "children": [
-      {
-  "name": "India",
+  "name": "WorldWideCovidData",
   "children": [
     {
-      "name": "Total Tests per million",
-      "size": 146986575,
+      "name": "Asia",
       "children": [
         {
-          "name": "Covid - Positive",
-          "size": 9667084,
+          "name": "India",
           "children": [
             {
-              "name": "Total Deaths",
-              "size": 140481
-            },
-            {
-              "name": "Total Recovered",
-              "size": 9126233
+              "name": "Total Tests per million",
+              "size": 146986575,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 9667084,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 140481
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 9126233
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 137319491
+                }
+              ]
             }
           ]
         },
         {
-          "name": "Covid - Negative",
-          "size": 137319491
+          "name": "China",
+          "children": [
+            {
+              "name": "Total Tested",
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 3534
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 5731
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5731
+                }
+              ]
+            },
+            {
+              "name": "Non Tested",
+              "size": 3812
+            }
+          ]
+        },
+        {
+          "name": "Pakistan",
+          "children": [
+            {
+              "name": "Total Tested",
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 3534
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 5731
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5731
+                }
+              ]
+            },
+            {
+              "name": "Non Tested",
+              "size": 3812
+            },
+            {
+              "name": "HierarchicalCluster",
+              "size": 6714
+            },
+            {
+              "name": "MergeEdge",
+              "size": 743
+            }
+          ]
+        },
+        {
+          "name": "Bangladesh",
+          "children": [
+            {
+              "name": "Total Tested",
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 3534
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 5731
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5731
+                }
+              ]
+            },
+            {
+              "name": "Non Tested",
+              "size": 3812
+            },
+            {
+              "name": "HierarchicalCluster",
+              "size": 6714
+            },
+            {
+              "name": "MergeEdge",
+              "size": 743
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "children": [
+        {
+          "name": "Cluster1",
+          "size": 17010
+        },
+        {
+          "name": "Cluster2",
+          "size": 5842
+        },
+        {
+          "name": "Cluster3",
+          "children": [
+            {
+              "name": "ArrayInterpolator",
+              "size": 1983
+            },
+            {
+              "name": "ColorInterpolator",
+              "size": 2047
+            },
+            {
+              "name": "DateInterpolator",
+              "size": 1375
+            },
+            {
+              "name": "Interpolator",
+              "size": 8746
+            },
+            {
+              "name": "MatrixInterpolator",
+              "size": 2202
+            },
+            {
+              "name": "NumberInterpolator",
+              "size": 1382
+            },
+            {
+              "name": "ObjectInterpolator",
+              "size": 1629
+            },
+            {
+              "name": "PointInterpolator",
+              "size": 1675
+            },
+            {
+              "name": "RectangleInterpolator",
+              "size": 2042
+            }
+          ]
+        },
+        {
+          "name": "Cluster4",
+          "size": 1041
+        },
+        {
+          "name": "Cluster5",
+          "size": 5176
+        },
+        {
+          "name": "Cluster6",
+          "size": 449
+        },
+        {
+          "name": "Cluster7",
+          "size": 5593
+        },
+        {
+          "name": "Cluster8",
+          "size": 5534
+        },
+        {
+          "name": "Cluster9",
+          "size": 9201
+        },
+        {
+          "name": "Cluster10",
+          "size": 19975
+        },
+        {
+          "name": "Cluster11",
+          "size": 1116
+        },
+        {
+          "name": "Cluster12",
+          "size": 6006
         }
       ]
     }
   ]
-},
-      {
-        "name": "China",
-        "children": [
-          {
-            "name": "Total Tested",
-            "children": [
-              {
-                "name": "Covid - Positive",
-                "children": [
-                  {
-                    "name": "Total Deaths",
-                    "size": 3534
-                  },
-                  {
-                    "name": "Total Recovered",
-                    "size": 5731
-                  }
-                ]
-              },
-              {
-                "name": "Covid - Negative",
-                "size": 5731
-              }
-            ]
-          },
-          {
-            "name": "Non Tested",
-            "size": 3812
-          },
-          {
-            "name": "HierarchicalCluster",
-            "size": 6714
-          },
-          {
-            "name": "MergeEdge",
-            "size": 743
-          }
-        ]
-      },
-      {
-        "name": "Pakistan",
-        "children": [
-          {
-            "name": "Total Tested",
-            "children": [
-              {
-                "name": "Covid - Positive",
-                "children": [
-                  {
-                    "name": "Total Deaths",
-                    "size": 3534
-                  },
-                  {
-                    "name": "Total Recovered",
-                    "size": 5731
-                  }
-                ]
-              },
-              {
-                "name": "Covid - Negative",
-                "size": 5731
-              }
-            ]
-          },
-          {
-            "name": "Non Tested",
-            "size": 3812
-          },
-          {
-            "name": "HierarchicalCluster",
-            "size": 6714
-          },
-          {
-            "name": "MergeEdge",
-            "size": 743
-          }
-        ]
-      },
-      {
-        "name": "Bangladesh",
-        "children": [
-          {
-            "name": "Total Tested",
-            "children": [
-              {
-                "name": "Covid - Positive",
-                "children": [
-                  {
-                    "name": "Total Deaths",
-                    "size": 3534
-                  },
-                  {
-                    "name": "Total Recovered",
-                    "size": 5731
-                  }
-                ]
-              },
-              {
-                "name": "Covid - Negative",
-                "size": 5731
-              }
-            ]
-          },
-          {
-            "name": "Non Tested",
-            "size": 3812
-          },
-          {
-            "name": "HierarchicalCluster",
-            "size": 6714
-          },
-          {
-            "name": "MergeEdge",
-            "size": 743
-          }
-        ]
-      }
-    ]
-  },
-  {
-   "name": "Africa",
-   "children": [
-    {"name": "Cluster1", "size": 17010},
-    {"name": "Cluster2", "size": 5842},
-    {
-     "name": "Cluster3",
-     "children": [
-      {"name": "ArrayInterpolator", "size": 1983},
-      {"name": "ColorInterpolator", "size": 2047},
-      {"name": "DateInterpolator", "size": 1375},
-      {"name": "Interpolator", "size": 8746},
-      {"name": "MatrixInterpolator", "size": 2202},
-      {"name": "NumberInterpolator", "size": 1382},
-      {"name": "ObjectInterpolator", "size": 1629},
-      {"name": "PointInterpolator", "size": 1675},
-      {"name": "RectangleInterpolator", "size": 2042}
-     ]
-    },
-    {
-      "name": "Cluster4",
-      "size": 1041
-    },
-    {
-      "name": "Cluster5",
-      "size": 5176
-    },
-    {
-      "name": "Cluster6",
-      "size": 449
-    },
-    {
-      "name": "Cluster7",
-      "size": 5593
-    },
-    {
-      "name": "Cluster8",
-      "size": 5534
-    },
-    {
-      "name": "Cluster9",
-      "size": 9201
-    },
-    {
-      "name": "Cluster10",
-      "size": 19975
-    },
-    {
-      "name": "Cluster11",
-      "size": 1116
-    },
-    {
-      "name": "Cluster12",
-      "size": 6006
-    }
-   ]
-  }
- ]
 }
