@@ -145,11 +145,36 @@
       ]
     },
     {
-      "name": "Africa",
+      "name": "South America",
       "children": [
         {
-          "name": "Cluster1",
-          "size": 17010
+          "name": "Brazil",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 25700000,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 6577177,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 176641
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 5761363
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 19122823
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Cluster2",
