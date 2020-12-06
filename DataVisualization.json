@@ -34,6 +34,35 @@
           ]
         },
         {
+          "name": "Russia",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 79323100,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 2460770,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 43141
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 1937738
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 76862330
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "China",
           "children": [
             {
