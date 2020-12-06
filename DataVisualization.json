@@ -8,7 +8,7 @@
           "name": "India",
           "children": [
             {
-              "name": "Total Tests per million",
+              "name": "Total Tested",
               "size": 146986575,
               "children": [
                 {
@@ -171,6 +171,35 @@
                 {
                   "name": "Covid - Negative",
                   "size": 19122823
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "USA",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 205985580,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 14995863,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 287894
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 8790495
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 190989717
                 }
               ]
             }
