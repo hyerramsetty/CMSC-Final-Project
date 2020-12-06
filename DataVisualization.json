@@ -9,6 +9,7 @@
         "children": [
           {
             "name": "Total Tested",
+            "size": 106064,
             "children": [
               {
                 "name": "Covid - Positive",
