@@ -377,6 +377,35 @@
               ]
             }
           ]
+        },
+        {
+          "name": "UK",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 44812139,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1705971,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 61014
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 1514957
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 43106168
+                }
+              ]
+            }
+          ]
         }
       ]
     }
