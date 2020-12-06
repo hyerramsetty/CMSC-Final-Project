@@ -34,140 +34,31 @@
           ]
         },
         {
-          "name": "Russia",
+          "name": "Iran",
           "children": [
             {
               "name": "Total Tested",
-              "size": 79323100,
+              "size": 6387019,
               "children": [
                 {
                   "name": "Covid - Positive",
-                  "size": 2460770,
+                  "size": 1040547,
                   "children": [
                     {
                       "name": "Total Deaths",
-                      "size": 43141
+                      "size": 50310
                     },
                     {
                       "name": "Total Recovered",
-                      "size": 1937738
+                      "size": 730798
                     }
                   ]
                 },
                 {
                   "name": "Covid - Negative",
-                  "size": 76862330
+                  "size": 5346472
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "China",
-          "children": [
-            {
-              "name": "Total Tested",
-              "children": [
-                {
-                  "name": "Covid - Positive",
-                  "children": [
-                    {
-                      "name": "Total Deaths",
-                      "size": 3534
-                    },
-                    {
-                      "name": "Total Recovered",
-                      "size": 5731
-                    }
-                  ]
-                },
-                {
-                  "name": "Covid - Negative",
-                  "size": 5731
-                }
-              ]
-            },
-            {
-              "name": "Non Tested",
-              "size": 3812
-            }
-          ]
-        },
-        {
-          "name": "Pakistan",
-          "children": [
-            {
-              "name": "Total Tested",
-              "children": [
-                {
-                  "name": "Covid - Positive",
-                  "children": [
-                    {
-                      "name": "Total Deaths",
-                      "size": 3534
-                    },
-                    {
-                      "name": "Total Recovered",
-                      "size": 5731
-                    }
-                  ]
-                },
-                {
-                  "name": "Covid - Negative",
-                  "size": 5731
-                }
-              ]
-            },
-            {
-              "name": "Non Tested",
-              "size": 3812
-            },
-            {
-              "name": "HierarchicalCluster",
-              "size": 6714
-            },
-            {
-              "name": "MergeEdge",
-              "size": 743
-            }
-          ]
-        },
-        {
-          "name": "Bangladesh",
-          "children": [
-            {
-              "name": "Total Tested",
-              "children": [
-                {
-                  "name": "Covid - Positive",
-                  "children": [
-                    {
-                      "name": "Total Deaths",
-                      "size": 3534
-                    },
-                    {
-                      "name": "Total Recovered",
-                      "size": 5731
-                    }
-                  ]
-                },
-                {
-                  "name": "Covid - Negative",
-                  "size": 5731
-                }
-              ]
-            },
-            {
-              "name": "Non Tested",
-              "size": 3812
-            },
-            {
-              "name": "HierarchicalCluster",
-              "size": 6714
-            },
-            {
-              "name": "MergeEdge",
-              "size": 743
             }
           ]
         }
@@ -437,6 +328,35 @@
                 {
                   "name": "Covid - Negative",
                   "size": 27966726
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Poland",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 6456364,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1063449,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 20089
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 706720
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5392915
                 }
               ]
             }
