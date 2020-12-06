@@ -348,6 +348,35 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Italy",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 22962114,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1709991,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 59514
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 896308
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 21252123
+                }
+              ]
+            }
+          ]
         }
       ]
     }
