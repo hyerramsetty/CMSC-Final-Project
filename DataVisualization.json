@@ -5,45 +5,34 @@
     "name": "Asia",
     "children": [
       {
-        "name": "India",
-        "children": [
-          {
-            "name": "Total Tested",
-            "size": 106064,
-            "children": [
-              {
-                "name": "Covid - Positive",
-                "children": [
-                  {
-                    "name": "Total Deaths",
-                    "size": 3534
-                  },
-                  {
-                    "name": "Total Recovered",
-                    "size": 5731
-                  }
-                ]
-              },
-              {
-                "name": "Covid - Negative",
-                "size": 5731
-              }
-            ]
-          },
-          {
-            "name": "Non Tested",
-            "size": 3812
-          },
-          {
-            "name": "HierarchicalCluster",
-            "size": 6714
-          },
-          {
-            "name": "MergeEdge",
-            "size": 743
-          }
-        ]
-      },
+  "name": "India",
+  "children": [
+    {
+      "name": "Total Tests per million",
+      "size": 146986575,
+      "children": [
+        {
+          "name": "Covid - Positive",
+          "size": 9667084,
+          "children": [
+            {
+              "name": "Total Deaths",
+              "size": 140481
+            },
+            {
+              "name": "Total Recovered",
+              "size": 9126233
+            }
+          ]
+        },
+        {
+          "name": "Covid - Negative",
+          "size": 137319491
+        }
+      ]
+    }
+  ]
+},
       {
         "name": "China",
         "children": [
