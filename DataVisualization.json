@@ -316,6 +316,40 @@
           "size": 6006
         }
       ]
+    },
+    {
+      "name": "Europ",
+      "children": [
+        {
+          "name": "France",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 20957718,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 2281475,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 54981
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 169358
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 18676243
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
