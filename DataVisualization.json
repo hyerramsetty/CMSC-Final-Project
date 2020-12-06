@@ -412,6 +412,69 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Germany",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 29141172,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1174446,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 19018
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 846400
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 27966726
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "children": [
+        {
+          "name": "Mexico",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 3005228,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1168395,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 109456
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 859463
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 1836833
+                }
+              ]
+            }
+          ]
         }
       ]
     }
