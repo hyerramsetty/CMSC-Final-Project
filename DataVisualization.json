@@ -2,7 +2,646 @@
   "name": "WorldWideCovidData",
   "children": [
     {
+      "name": "Asia",{
+  "name": "WorldWideCovidData",
+  "children": [
+    {
       "name": "Asia",
+      "children": [
+        {
+          "name": "India",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 146986575,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 9667084,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 140481
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 9126233
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 137319491
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Iran",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 6387019,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1040547,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 50310
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 730798
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5346472
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Turkey",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 19691845,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 828295,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 14900
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 431253
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 18863550
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Indonesia",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 6032542,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 575796,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 17740
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 474771
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5456746
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Iraq",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 3671654,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 564200,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 12432
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 493567
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 3107454
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South America",
+      "children": [
+        {
+          "name": "Brazil",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 25700000,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 6577177,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 176641
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 5761363
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 19122823
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "USA",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 205985580,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 14995863,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 287894
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 8790495
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 190989717
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Argentina",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 4084362,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1459832,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 39632
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 1288785
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 2624530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Colombia",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 6702477,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1362249,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 37633
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 1249702
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5340228
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Peru",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 5154919,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 972688,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 36231
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 905696
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 4182231
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chile",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 5537774,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 560382,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 15628
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 534789
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 4977392
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Europ",
+      "children": [
+        {
+          "name": "France",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 20957718,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 2281475,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 54981
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 169358
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 18676243
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Italy",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 22962114,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1709991,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 59514
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 896308
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 21252123
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UK",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 44812139,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1705971,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 61014
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 1514957
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 43106168
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spain",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 22992742,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1699145,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 46252
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 899145
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 21293597
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Germany",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 29141172,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1174446,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 19018
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 846400
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 27966726
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Poland",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 6456364,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1063449,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 20089
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 706720
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 5392915
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "children": [
+        {
+          "name": "Mexico",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 3005228,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 1168395,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 109456
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 859463
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 1836833
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Canada",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 11905770,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 410963,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 12604
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 326456
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 11494807
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "children": [
+        {
+          "name": "South Africa",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 5565928,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 810449,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 22067
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 744298
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 4755479
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Morocco",
+          "children": [
+            {
+              "name": "Total Tested",
+              "size": 4058751,
+              "children": [
+                {
+                  "name": "Covid - Positive",
+                  "size": 376738,
+                  "children": [
+                    {
+                      "name": "Total Deaths",
+                      "size": 6184
+                    },
+                    {
+                      "name": "Total Recovered",
+                      "size": 327693
+                    }
+                  ]
+                },
+                {
+                  "name": "Covid - Negative",
+                  "size": 3682013
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
       "children": [
         {
           "name": "India",
