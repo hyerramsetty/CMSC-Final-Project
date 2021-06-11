@@ -1,18 +1,86 @@
 [
     {
-      "name": "56",
-      "party": 59
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
     },
     {
-      "name": "23",
-      "party": 86
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
     },
     {
-      "name": "54",
-      "party": 46
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
     },
     {
-      "name": "29",
-      "party": 42
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "0",
+      "time_stamp": "56",
+      "discussion": 59
+    },{
+      "user_id": "1",
+      "time_stamp": "56",
+      "discussion": 59
     }
 ]
