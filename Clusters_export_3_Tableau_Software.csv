@@ -1,0 +1,272 @@
+Province,City,cluster
+Alberta,Airdrie,2
+Alberta,Banff,2
+Alberta,Beaumont,2
+Alberta,Brooks,1
+Alberta,Calgary,2
+Alberta,Camrose,2
+Alberta,Chestermere,2
+Alberta,Cochrane,2
+Alberta,Cold Lake,2
+Alberta,Edmonton,2
+Alberta,Fort McMurray,2
+Alberta,Fort Saskatchewan,2
+Alberta,Grande Prairie,2
+Alberta,High River,1
+Alberta,Lacombe,2
+Alberta,Leduc,2
+Alberta,Lethbridge,1
+Alberta,Lloydminsterÿ,2
+Alberta,Medicine Hat,1
+Alberta,Okotoks,1
+Alberta,Red Deer,2
+Alberta,Sherwood Park,2
+Alberta,Spruce Grove,2
+Alberta,St. Albert,2
+Alberta,Wetaskiwin,2
+Alberta,Nothern Alberta,2
+Alberta,Southern Alberta,1
+British Columbia,Abbotsford,3
+British Columbia,Burnaby,3
+British Columbia,Campbell River,3
+British Columbia,Chilliwack,3
+British Columbia,Colwood,3
+British Columbia,Coquitlam,3
+British Columbia,Courtenay,3
+British Columbia,Delta,3
+British Columbia,Kamloops,2
+British Columbia,Kelowna,1
+British Columbia,Langford,3
+British Columbia,Langley,3
+British Columbia,Maple Ridge,3
+British Columbia,Nanaimo,3
+British Columbia,New Westminster,3
+British Columbia,North Vancouver,3
+British Columbia,Parksville,3
+British Columbia,Penticton,2
+British Columbia,Pitt Meadows,3
+British Columbia,Port Alberni,3
+British Columbia,Port Coquitlam,3
+British Columbia,Port Moody,3
+British Columbia,Powell River,3
+British Columbia,Prince George,2
+British Columbia,Richmond,3
+British Columbia,Salmon Arm,2
+British Columbia,Surrey,3
+British Columbia,Vancouver,3
+British Columbia,Vernon,2
+British Columbia,Victoria,3
+British Columbia,West Kelowna,1
+British Columbia,Western BC,3
+British Columbia,Eastern BC,2
+British Columbia,Northern BC,2
+Manitoba,Altona,2
+Manitoba,Arborg,2
+Manitoba,Beausejour,2
+Manitoba,Boissevain,2
+Manitoba,Brandon,2
+Manitoba,Carberry,2
+Manitoba,Carman,2
+Manitoba,Dauphin,2
+Manitoba,Flin Flon,2
+Manitoba,Minnedosa,2
+Manitoba,Morden,2
+Manitoba,Neepawa,2
+Manitoba,Niverville,2
+Manitoba,Portage la Prairie,2
+Manitoba,Roblin,2
+Manitoba,Selkirk,2
+Manitoba,Ste. Anne,2
+Manitoba,Steinbach,2
+Manitoba,Swan River,2
+Manitoba,The Pas,2
+Manitoba,Thompson,2
+Manitoba,Virden,2
+Manitoba,Winkler,2
+Manitoba,Winnipeg,2
+Manitoba,Other,2
+New Brunswick,Bathurst,1
+New Brunswick,Bouctouche,1
+New Brunswick,Campbellton,2
+New Brunswick,Caraquet,1
+New Brunswick,Dalhousie,2
+New Brunswick,Dieppe,1
+New Brunswick,Edmundston,2
+New Brunswick,Fredericton,1
+New Brunswick,Grand Falls,2
+New Brunswick,Hampton,1
+New Brunswick,Memramcook,1
+New Brunswick,Miramichi,1
+New Brunswick,Moncton,1
+New Brunswick,Oromocto,1
+New Brunswick,Restigouche County,2
+New Brunswick,Richibucto,1
+New Brunswick,Saint John,1
+New Brunswick,Saint Leonard,2
+New Brunswick,Saint Stephen,1
+New Brunswick,Shediac,1
+New Brunswick,St. Andrews,1
+New Brunswick,Sussex,1
+New Brunswick,Woodstock,1
+New Brunswick,Other,1
+Newfoundland and Labrador,Bishop's Falls,1
+Newfoundland and Labrador,Bonavista,1
+Newfoundland and Labrador,Botwood,1
+Newfoundland and Labrador,Carbonear,1
+Newfoundland and Labrador,Channel-Port aux Basques,1
+Newfoundland and Labrador,Clarenville,1
+Newfoundland and Labrador,Conception Bay South,1
+Newfoundland and Labrador,Corner Brook,1
+Newfoundland and Labrador,Deer Lake,1
+Newfoundland and Labrador,Gander,1
+Newfoundland and Labrador,Grand Falls-Windsor,1
+Newfoundland and Labrador,Happy Valley-Goose Bay,2
+Newfoundland and Labrador,Labrador City,2
+Newfoundland and Labrador,Marystown,1
+Newfoundland and Labrador,Mount Pearl,1
+Newfoundland and Labrador,Placentia,1
+Newfoundland and Labrador,Portugal Cove-St. Philip's,1
+Newfoundland and Labrador,St. Anthony,2
+Newfoundland and Labrador,St. John's,1
+Newfoundland and Labrador,Stephenville,1
+Newfoundland and Labrador,Stephenville,1
+Newfoundland and Labrador,Torbay,1
+Newfoundland and Labrador,Twillingate,1
+Newfoundland and Labrador,Newfoundland,1
+Newfoundland and Labrador,Labrador ,2
+Nova Scotia,Amherst,1
+Nova Scotia,Annapolis Royal,1
+Nova Scotia,Antigonish,1
+Nova Scotia,Baddeck,1
+Nova Scotia,Baddeck,1
+Nova Scotia,Bridgewater,1
+Nova Scotia,Chester,1
+Nova Scotia,Digby,1
+Nova Scotia,Halifax Regional Municipality,3
+Nova Scotia,Kentville,1
+Nova Scotia,Liverpool,3
+Nova Scotia,Lunenburg,1
+Nova Scotia,Mahone Bay,1
+Nova Scotia,Middleton,1
+Nova Scotia,New Glasgow,1
+Nova Scotia,Port Hawkesbury,1
+Nova Scotia,Pugwash,1
+Nova Scotia,Shelburne,1
+Nova Scotia,Sydney,1
+Nova Scotia,Truro,1
+Nova Scotia,Wolfville,1
+Nova Scotia,Yarmouth,3
+Nova Scotia,Other,1
+Ontario,Barrie,1
+Ontario,Belleville,1
+Ontario,Brampton,1
+Ontario,Burlington,1
+Ontario,Cambridge,1
+Ontario,Cornwall,1
+Ontario,Greater Sudbury,2
+Ontario,Guelph,1
+Ontario,Haldimand County,1
+Ontario,Hamilton,1
+Ontario,Kawartha Lakes,1
+Ontario,Kenora,2
+Ontario,Kingston,1
+Ontario,Kitchener,1
+Ontario,London,1
+Ontario,Markham,1
+Ontario,Mississauga,1
+Ontario,Norfolk County,1
+Ontario,North Bay,1
+Ontario,Oshawa,1
+Ontario,Ottawa,1
+Ontario,Richmond Hill,1
+Ontario,Sarnia,1
+Ontario,St. Catharines,1
+Ontario,St. Thomas,1
+Ontario,Timmins,2
+Ontario,Toronto,1
+Ontario,Vaughan,1
+Ontario,Welland,1
+Ontario,Windsor,1
+Ontario,Woodstock,1
+Ontario,Southern Ontario,1
+Ontario,Nothern Ontario,2
+Prince Edward Island,Abrams Village,1
+Prince Edward Island,Alberton,1
+Prince Edward Island,Belfast,1
+Prince Edward Island,Borden-Carleton,1
+Prince Edward Island,Charlottetown,1
+Prince Edward Island,Cornwall,1
+Prince Edward Island,Crapaud,1
+Prince Edward Island,Georgetown,1
+Prince Edward Island,Hunter River,1
+Prince Edward Island,Kensington,1
+Prince Edward Island,Montague,1
+Prince Edward Island,Montague,1
+Prince Edward Island,Mount Stewart,1
+Prince Edward Island,Murray Harbour,1
+Prince Edward Island,Murray River,1
+Prince Edward Island,North Rustico,1
+Prince Edward Island,O'Leary,1
+Prince Edward Island,Souris,1
+Prince Edward Island,Stratford,1
+Prince Edward Island,Summerside,1
+Prince Edward Island,Tignish,1
+Prince Edward Island,Tyne Valley,1
+Prince Edward Island,Victoria,1
+Prince Edward Island,Wellington,1
+Prince Edward Island,Other,1
+Quebec,Brossard,1
+Quebec,Chƒteauguay,1
+Quebec,Dollard-des-Ormeaux,1
+Quebec,Drummondville,1
+Quebec,Gatineau,1
+Quebec,Granby,1
+Quebec,L‚vis,1
+Quebec,Laval,1
+Quebec,Longueuil,1
+Quebec,Mascouche,1
+Quebec,Mirabel,1
+Quebec,Montreal,1
+Quebec,Qu‚bec,2
+Quebec,Repentigny,1
+Quebec,Rimouski,2
+Quebec,Rouyn-Noranda,2
+Quebec,Saguenay,2
+Quebec,Saint-Eustache,1
+Quebec,Saint-Hyacinthe,1
+Quebec,Saint-J‚r“me,1
+Quebec,Saint-Jean-sur-Richelieu,1
+Quebec,Shawinigan,1
+Quebec,Sherbrooke,1
+Quebec,Sorel-Tracy,1
+Quebec,Terrebonne,1
+Quebec,Trois-RiviŠres,1
+Quebec,Victoriaville,1
+Quebec,Southern Qubec,1
+Quebec,Northern Quebec,2
+Saskatchewan,Battleford,2
+Saskatchewan,Dalmeny,2
+Saskatchewan,Esterhazy,2
+Saskatchewan,Estevan,2
+Saskatchewan,Flin Flon,2
+Saskatchewan,Humboldt,2
+Saskatchewan,Kindersley,2
+Saskatchewan,La Ronge,2
+Saskatchewan,Lloydminster,2
+Saskatchewan,Lumsden,2
+Saskatchewan,Maple Creek,1
+Saskatchewan,Martensville,2
+Saskatchewan,Meadow Lake,2
+Saskatchewan,Melfort,2
+Saskatchewan,Melville,2
+Saskatchewan,Moose Jaw,2
+Saskatchewan,North Battleford,2
+Saskatchewan,Prince Albert,2
+Saskatchewan,Regina,2
+Saskatchewan,Rosetown,2
+Saskatchewan,Saskatoon,2
+Saskatchewan,Swift Current,2
+Saskatchewan,Warman,2
+Saskatchewan,Weyburn,2
+Saskatchewan,Yorkton,2
+Saskatchewan,Other,2
